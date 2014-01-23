@@ -1,4 +1,4 @@
-[Obsidian]
+[light]
 definition-foreground = #678CB1
 error-foreground = #FF0000
 string-background = #293134
@@ -28,7 +28,7 @@ break-foreground = #E0E2E4
 error-background = #293134
 
 
-[osidian]
+[obsidian]
 definition-foreground = #98fb98
 error-foreground = #ff0000
 string-background = #333333
