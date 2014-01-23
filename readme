@@ -1,5 +1,6 @@
 I uploaded a few examples of python background themes whose I found on different sites, so I hope you guys like it.
 
+
 1. Close IDLE if open.
 2. Go to search menu and type '/.idlerc' if u don't find it go to your /C: drive/users and search again.
 3. Create cfg document 'config-highlight.cfg' and paste in one of your favorite background theme.
